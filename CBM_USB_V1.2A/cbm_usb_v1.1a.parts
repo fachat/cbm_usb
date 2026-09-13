@@ -1,0 +1,69 @@
+Partlist
+
+Exported from cbm_usb_v1.sch at 8/30/18 6:34 PM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value             Device            Package      Library                       Sheet
+
+C1       18p               C-EU050-025X075   C050-025X075 rcl                           2
+C2       100n              C-EU050-025X075   C050-025X075 rcl                           1
+C3       18p               C-EU050-025X075   C050-025X075 rcl                           2
+C4       100n              C-EU050-025X075   C050-025X075 rcl                           1
+C5       100n              C-EU050-025X075   C050-025X075 rcl                           3
+C6       100n              C-EU050-025X075   C050-025X075 rcl                           3
+C7       47u               CPOL-EUE3.5-8     E3,5-8       rcl                           3
+C8       100n              C-EU050-025X075   C050-025X075 rcl                           1
+C9       >=10u             CPOL-EUE5-10.5    E5-10,5      rcl                           3
+C10      100n              C-EU050-030X075   C050-030X075 rcl                           3
+C11      100n              C-EU050-025X075   C050-025X075 rcl                           1
+C12      47u               CPOL-EUE3.5-8     E3,5-8       rcl                           3
+C13      100n              C-EU050-030X075   C050-030X075 rcl                           3
+C14      0.1u              C-EU050-025X075   C050-025X075 rcl                           2
+C17      1.0u Cer          C-EU050-024X044   C050-024X044 rcl                           2
+C18      0.1u              C-EU050-025X075   C050-025X075 rcl                           2
+C19      1.0u Cer          C-EU050-024X044   C050-024X044 rcl                           2
+C21      0.1u              C-EU050-025X075   C050-025X075 rcl                           2
+C34      >=10u             CPOL-EUE5-8.5     E5-8,5       rcl                           3
+C35      1u                CPOL-EUE5-8.5     E5-8,5       rcl                           3
+CN1      USERPORT-C64-CONN USERPORT-C64-CONN UPS24CONN    0RB_Commodore                 1
+IC1      74LS07            74LS07D           SO14         74xx-eu                       1
+IC4      74LS164D          74LS164D          SO14         74xx-eu                       1
+IC8      MAX3421E          MAX3421E          TQFP32-5MM   csa                           2
+J1                         614004190021      614004190021 Wuerth_InputOutputIO (rev18a) 2
+J2                         629105150521      629105150521 Wuerth_InputOutputIO (rev18a) 2
+J3                         65100516121       65100516121  Wuerth_InputOutputIO (rev18a) 2
+JP2      IOPORT            JP10Q             JP10Q        jumper                        2
+JP3                        JP2E              JP2          jumper                        3
+P2       PETUSERPORT       PETUSERPORT       FLAT24       csa                           1
+P3       CBMTAPE           CBMTAPE           JP6          csa                           3
+Q1       12MHz             CRYSTALHC49U70    HC49U70      crystal                       2
+R1       3k3               R-EU_0204/7       0204/7       rcl                           1
+R2       33                R-EU_0204/7       0204/7       rcl                           2
+R3       33                R-EU_0204/7       0204/7       rcl                           2
+R4       3k3               R-EU_0204/7       0204/7       rcl                           1
+R5       3k3               R-EU_0204/7       0204/7       rcl                           1
+R6       10M               R-EU_0204/7       0204/7       rcl                           2
+R7       33                R-EU_0204/7       0204/7       rcl                           2
+R8       3k3               R-EU_0204/7       0204/7       rcl                           1
+R9       3k3               R-EU_0204/7       0204/7       rcl                           1
+R10      3k3               R-EU_0204/7       0204/7       rcl                           1
+R19      10k               R-EU_0204/7       0204/7       rcl                           1
+SJ1                        SJW               SJW          jumper                        1
+SJ2                        SJW               SJW          jumper                        1
+SJ3                        SJW               SJW          jumper                        1
+SJ4                        SJW               SJW          jumper                        1
+SJ5                        SJW               SJW          jumper                        1
+SJ6                        SJW               SJW          jumper                        1
+SJ7                        SJW               SJW          jumper                        1
+SJ8                        SJW               SJW          jumper                        1
+SJ9                        SJW               SJW          jumper                        1
+SJ10                       SJW               SJW          jumper                        1
+SJ11                       SJW               SJW          jumper                        1
+SJ12                       SJW               SJW          jumper                        1
+TO1      LM2937SOT-3.3V    LM2937SOT         SOT223       csa                           3
+TO2      LM2937-5V         LM2937            TO220H       csa                           3
+TP1      TPSQTP14SQ        TPSQTP14SQ        TP14SQ       testpad                       2
+TP2      TPSQTP14SQ        TPSQTP14SQ        TP14SQ       testpad                       2
